@@ -1,12 +1,6 @@
-## Hi there 👋
+## 华凌创新 
 
-<!--
+👋 科技照亮生活
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+🌈 愿景：成为全球领先的人工智能科技公司，引领第三产业的创新变革。 
+🙋‍♀️ 使命：构建智能牵引、数据驱动、软件定义、平台使能、服务增值的新型软件工程体系。
